@@ -1,7 +1,7 @@
-# =========================
-# INSTALL
-# =========================
-!pip install -q transformers datasets peft bitsandbytes accelerate sentencepiece
+# # =========================
+# # INSTALL
+# # =========================
+# !pip install -q transformers datasets peft bitsandbytes accelerate sentencepiece
 
 # =========================
 # IMPORTS
