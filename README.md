@@ -1,4 +1,7 @@
 # Bangla LLM Distillation
+[![Hugging Face Teacher](https://img.shields.io/badge/🤗%20Teacher-Bangla%20Mistral%207B-yellow)](https://huggingface.co/tajshuvo/Bangla-Mistral-7B-Instruct-v0.2)
+[![Hugging Face Student](https://img.shields.io/badge/🤗%20Student-Bangla%20TinyLlama%201.1B-blue)](https://huggingface.co/tajshuvo/Bangla-TinyLlama-1.1B-Distilled)
+[![Kaggle](https://img.shields.io/badge/🟦%20Kaggle-Training%20Environment-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 
 Distilling a Fine-Tuned 7B Bangla Instruct Model into a 1.1B Student using LoRA
 
